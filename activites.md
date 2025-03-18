@@ -20,4 +20,4 @@ Rejoingnez un atelier constituant MCP Belgique ou trouvez un atelier organisé..
 
 Consulter [l'agenda des évènements](https://agenda.collectifs.net/@tacticasbl/events)
 
-# Autres 
+# Autres... 
