@@ -9,4 +9,4 @@ L'organisation d'atelier constituant à pour but de....
 
 ![Capture d'écran d'un atelier constituant en visioconférence]({% link images/live-votation-juin.jpg %})
 
-Ces quelques pages constituent juste un test de l'outils. Les informations, textes, images ou liens que vous trouverez sur ce mini-site sont juste là pour l'exercices. 
+Ces quelques pages constituent juste un test de l'outil. Les informations, textes, images ou liens que vous trouverez sur ce mini-site sont juste là pour l'exercices. 
