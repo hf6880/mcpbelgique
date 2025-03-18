@@ -5,7 +5,7 @@ in_menu: true
 ---
 L'association à pour but l'organisation d'ateliers constituant mais apporte également son soutien...
 
-# Les ateliers constituants:
+## Les ateliers constituants:
 
 **En visioconférence**
 
@@ -20,4 +20,4 @@ Rejoingnez un atelier constituant MCP Belgique ou trouvez un atelier organisé..
 
 Consulter [l'agenda des évènements](https://agenda.collectifs.net/@tacticasbl/events)
 
-# Autres... 
+## Autres... 
