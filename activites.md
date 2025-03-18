@@ -18,4 +18,6 @@ https://call.element.io/room/#/mcp-belgique-test?password=MGEJUce8TQJuAn9gNMk3RA
 
 Rejoingnez un atelier constituant MCP Belgique ou trouvez un atelier organisé...
 
-Consulter [l'agenda des évènements](https://agenda.collectifs.net/@tacticasbl/events) 
+Consulter [l'agenda des évènements](https://agenda.collectifs.net/@tacticasbl/events)
+
+# Autres 
