@@ -5,7 +5,7 @@ in_menu: true
 ---
 <p class="encart">MCP BELGIQUE</p>
 
-Un Mouvement Constituant Populaire? Mais qu'est-ce donc?
+Un **M**ouvement **C**onstituant **P**opulaire? Mais qu'est-ce donc?
 
 #### LES ATELIERS CONSTITUANTS
 L'organisation d'atelier constituant à pour but de…
