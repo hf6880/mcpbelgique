@@ -3,7 +3,7 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-L'association à pour but l'organisation d'ateliers constituant mais apporte également son soutien...
+L'association à pour but l'organisation d'ateliers constituants mais apporte également son soutien...
 
 ## Les ateliers constituants:
 
