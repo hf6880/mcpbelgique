@@ -1,5 +1,5 @@
 ---
-title: "Accueill"
+title: "Accueil"
 order: 0
 in_menu: true
 ---
@@ -13,6 +13,4 @@ Ces quelques pages constituent juste un test de l'outil. Les informations, texte
 
 Ce site a été réalisé avec le logiciel libre **"Scribouilli"**
 
-https://scribouilli.org/
-
-Dernière modif. 01 
+https://scribouilli.org/ 
