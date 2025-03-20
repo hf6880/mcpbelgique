@@ -18,7 +18,10 @@ Cliquez sur le lien ci-dessous pour rejoindre la réunion:
 
 Rejoignez un atelier constituant MCP Belgique ou trouvez un atelier organisé...
 
-Consultez [l'agenda des évènements](https://agenda.collectifs.net/@tacticasbl/events)
+Consultez l'agenda des évènements (https://agenda.collectifs.net/@tacticasbl/events)
 (Mobilizon: logiciel libre pour créer et partager des évènements).
+
+ <a href="https://agenda.collectifs.net/@tacticasbl/events?showPassedEvents=true" class="bouton">AGENDA</a>
+
 
 ## Autres... 
