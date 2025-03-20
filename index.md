@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<p class="encart">## MCP BELGIQUE</p>
+<p class="encart">Mouvement constituant populaire BELGIQUE</p>
 
 #### LES ATELIERS CONSTITUANTS
 L'organisation d'atelier constituant à pour but de…
